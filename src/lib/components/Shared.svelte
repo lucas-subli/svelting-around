@@ -1,0 +1,1 @@
+<p>This is text is from a shared component.</p>
