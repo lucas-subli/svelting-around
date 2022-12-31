@@ -144,4 +144,4 @@
 <!-- Navigation -->
 <a href="props"> Back </a>
 
-<a href="dom-events"> DOM Events </a>
+<a href="events"> Events </a>
