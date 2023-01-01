@@ -32,7 +32,8 @@
 
 <a href="actions"> Back </a>
 
-<!-- <a href="adv-styling"> Advanced Styling </a> -->
+<a href="components"> Components </a>
+
 <style>
 	button {
 		display: block;
